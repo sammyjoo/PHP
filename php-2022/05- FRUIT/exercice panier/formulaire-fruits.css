@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+body  {
+    position: relative;
+    top: 25vh;
+    font-family:'Tajawal', sans-serif;
+    
+}
+h1 {
+    font-weight: 800;
+}
+label {
+    font-weight: 500;
+    font-size: 1.4rem;
+}
+input, select {
+    margin-left: 18px;
+    font-size: 1.2rem;
+    padding: 4px;
+    padding-left: 12px;
+    font-weight:500;
+}

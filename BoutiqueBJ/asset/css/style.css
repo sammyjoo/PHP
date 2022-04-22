@@ -1,0 +1,29 @@
+/* CSS */
+
+
+.dropdown-menu[data-bs-popper]
+{
+    left:initial;
+    right:-12px;
+}
+
+
+.imgSize300
+{
+    width: 300px;
+}
+
+.imgSize250
+{
+    width: 250px;
+}
+
+.imgSize150
+{
+    width: 150px;
+}
+
+.imgSize80
+{
+    width: 80px;
+}
