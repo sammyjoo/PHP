@@ -1,0 +1,39 @@
+/*
+Theme Name: theme1
+Author: gabriel 
+Version: 1.0
+Description: lorem ipsum
+*/
+
+body {
+    background-color: aliceblue;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.haut-gauche, .haut-droit, .bas-gauche, .bas-droit {
+
+    min-height: 100px;
+
+}
+
+section {
+    min-height: 685px;
+}
+
+.bleu {
+    background-color: blue;
+}
+
+.rouge {
+    background-color: red;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.green {
+    background-color: green;
+}
